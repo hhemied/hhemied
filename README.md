@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">Hi 👋, I'm Hazem Hemied</h1>
 <h3 align="center">I'm an open-source enthusiast with over 10 years of experience, currently working as a Senior Cloud Consultant at Red Hat. I'm passionate about helping others and sharing my knowledge on a variety of technologies.</h3>
 
@@ -20,6 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/hazemhemied" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazemhemied" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/hazemhemied"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hazemhemied" /></a></p><br><br>
-
 <p><br></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhemied&show_icons=true&locale=en&layout=compact" alt="hhemied" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hhemied&show_icons=true&locale=en" alt="hhemied" /></p>
